@@ -37,6 +37,9 @@ https://github.com/philgyford/python-halftone
 
 Traces
 -----
+### JS Circuit Board Generator
+https://codepen.io/tsuhre/pen/xgmEPe
+
 https://github.com/vygr/Python-PCB
 
 ### SKiDL
